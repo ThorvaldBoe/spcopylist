@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace SPCopyListLib
 {
-    public class Class1
+    public class SPCopyListLib
     {
+        public void SPCopyList(string siteSource, string siteTarget, string listName)
+        {
+
+        }
+
     }
 }

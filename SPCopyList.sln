@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPCopyListLib", "SPCopyListLib\SPCopyListLib.csproj", "{B4299440-4BD5-4B46-BF2B-DC6CC277356E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPCopyListLibTests", "SPCopyListLibTests\SPCopyListLibTests.csproj", "{BDF6D0B7-CF8E-45F3-9630-15A41A0F26F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B4299440-4BD5-4B46-BF2B-DC6CC277356E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4299440-4BD5-4B46-BF2B-DC6CC277356E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4299440-4BD5-4B46-BF2B-DC6CC277356E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDF6D0B7-CF8E-45F3-9630-15A41A0F26F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF6D0B7-CF8E-45F3-9630-15A41A0F26F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF6D0B7-CF8E-45F3-9630-15A41A0F26F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF6D0B7-CF8E-45F3-9630-15A41A0F26F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
