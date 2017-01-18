@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPCopyListLib", "SPCopyList
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPCopyListLibTests", "SPCopyListLibTests\SPCopyListLibTests.csproj", "{BDF6D0B7-CF8E-45F3-9630-15A41A0F26F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPCopyListWeb", "SPCopyListWeb\SPCopyListWeb.csproj", "{16D5401E-E036-4959-8117-C73FC31CBC9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPCopyListWeb.Tests", "SPCopyListWeb.Tests\SPCopyListWeb.Tests.csproj", "{2FA53442-B175-4596-A488-7A5877727367}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{BDF6D0B7-CF8E-45F3-9630-15A41A0F26F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDF6D0B7-CF8E-45F3-9630-15A41A0F26F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDF6D0B7-CF8E-45F3-9630-15A41A0F26F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D5401E-E036-4959-8117-C73FC31CBC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D5401E-E036-4959-8117-C73FC31CBC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D5401E-E036-4959-8117-C73FC31CBC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D5401E-E036-4959-8117-C73FC31CBC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FA53442-B175-4596-A488-7A5877727367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA53442-B175-4596-A488-7A5877727367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA53442-B175-4596-A488-7A5877727367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA53442-B175-4596-A488-7A5877727367}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

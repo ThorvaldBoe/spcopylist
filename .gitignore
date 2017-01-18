@@ -240,4 +240,10 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+# config filew
 /SPCopyListLibTests/App.config
+/SPCopyListWeb/Web.config
+/SPCopyListWeb/Web.Debug.config
+/SPCopyListWeb/Web.Release.config
+/SPCopyListWeb/Properties/PublishProfiles
